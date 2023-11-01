@@ -1,4 +1,4 @@
-# Water-Sensor-repository
+# Brajesh_water_sensor_repository
 Water Sensor Fault Prediction
 
 Brief: In electronics, a wafer (also called a slice or substrate) is a thin slice of semiconductor, such as a crystalline silicon (c-Si), used for the fabrication of integrated circuits and, in photovoltaics, to manufacture solar cells. The wafer serves as the substrate(serves as foundation for contruction of other components) for microelectronic devices built in and upon the wafer.
